@@ -1,3 +1,3 @@
-# hello-world
-Hello-world repository
+# SHECCO
+SHECCO repository
 123581321345589
